@@ -1,2 +1,2 @@
-# PredictUniv_rank
-Predicting university ranking
+# Predict University Ranking
+
